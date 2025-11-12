@@ -50,5 +50,3 @@ Se receber erro de "import: command not found", verifique se o shebang (`#!/usr/
 
 ## Licença
 MIT — sinta-se livre para adaptar.
-
-Se quiser eu gero um `LICENSE` (MIT) e um `.gitignore` básico para Python. Deseja isso?
